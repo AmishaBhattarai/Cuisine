@@ -1,0 +1,16 @@
+export { Hero } from "./hero";
+export { About } from "./about";
+export { Header } from "./header";
+export { Footer } from "./footer";
+export { GeoMap } from "./geoMap";
+export { Banner } from "./banner";
+export { Loading } from "./loader";
+export { Reviews } from "./reviews";
+export { Pricing } from "./pricing";
+export { Parellex } from "./parellex";
+export { MoreAbout } from "./moreAbout";
+export { Formfield } from "./formFields";
+export { MenuBuilder } from "./menuBuilder";
+export { PageHeading } from "./pageHeading";
+export { DeliveryChoices } from "./deliveryChoices";
+export { DeliveryTimeline } from "./deliveryTimeline";
